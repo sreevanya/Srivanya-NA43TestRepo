@@ -74,6 +74,8 @@
                 <fields>
                     <fieldText><p><b style=&quot;color: rgb(234, 21, 34);&quot;>Es ist etwas schiefgelaufen.</b></p><p><b style=&quot;color: rgb(234, 21, 34);&quot;>Bitte informieren Sie Ihren Systemadministrator.</b></p></fieldText>
                     <name>Flow_Error_Message</name>
+                    <fieldText><p><b style=&quot;color: rgb(234, 21, 34);&quot;>Es ist etwas schiefgelaufen.</b></p><p><b style=&quot;color: rgb(234, 21, 34);&quot;>Bitte informieren Sie Ihren Systemadministrator.</b></p></fieldText>
+                    <name>Flow_Error_Message</name>
                 </fields>
                 <name>Flow_Error_Page</name>
             </screens>
